@@ -1,0 +1,43 @@
+{
+  "name": "XL311H",
+  "description": "XL311H",
+  "keywords": ["XL311H"],
+  "env": {
+    "ProxySite": {
+      "description": "web",
+      "value": "nvidia.com"
+    },
+
+    "Vless_UUID": {
+      "description": "LID",
+      "value": ""
+    },
+
+    "Vless_Path": {
+      "description": "LPA",
+      "value": "/s233"
+    },
+    "Vmess_UUID": {
+      "description": "MID",
+      "value": ""
+    },
+
+    "Vmess_Path": {
+      "description": "MPA",
+      "value": "/s244"
+    },
+    
+    "Share_Path": {
+      "description": "Share path",
+      "value": "/share233"
+    },
+
+    "VER": {
+       "description": "Xver",
+       "value": "latest"
+     }
+  },
+  "website": "https://github.com/gitymofi/xl311fdy",
+  "repository": "https://github.com/gitymofi/xl311fdy",
+  "stack": "container"
+ }
